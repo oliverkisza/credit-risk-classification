@@ -1,0 +1,85 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 53
+    },
+    {
+      "field": "loan_size",
+      "title": "loan_size",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 118
+    },
+    {
+      "field": "interest_rate",
+      "title": "interest_rate",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 140
+    },
+    {
+      "field": "borrower_income",
+      "title": "borrower_income",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 170
+    },
+    {
+      "field": "debt_to_income",
+      "title": "debt_to_income",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 163
+    },
+    {
+      "field": "num_of_accounts",
+      "title": "num_of_accounts",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 173
+    },
+    {
+      "field": "derogatory_marks",
+      "title": "derogatory_marks",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 175
+    },
+    {
+      "field": "total_debt",
+      "title": "total_debt",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 124
+    },
+    {
+      "field": "loan_status",
+      "title": "loan_status",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 372
+    }
+  ]
+}
