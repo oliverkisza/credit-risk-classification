@@ -1,5 +1,3 @@
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 The purpose of this analysis was to see how well a logistic regression model could be used to classify the risk level of loans. After creating the initial LR model, I then measured the impact of resampling the data on the LR model's performance.
